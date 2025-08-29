@@ -3,6 +3,7 @@
 Input:  4
 
 Output: 
+
 0
 
 0
